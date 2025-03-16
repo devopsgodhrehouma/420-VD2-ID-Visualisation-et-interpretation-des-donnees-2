@@ -18,12 +18,12 @@ ou
 
 
 ```bash
-python3.7 -m venv myenv
-python3.8 -m venv myenv
-python3.9 -m venv myenv
-python3.10 -m venv myenv
-python3.11 -m venv myenv
-python3.12 -m venv myenv
+python3.7 -m venv myenv37
+python3.8 -m venv myenv38
+python3.9 -m venv myenv39
+python3.10 -m venv myenv310
+python3.11 -m venv myenv311
+python3.12 -m venv myenv312
 ```
 
 
