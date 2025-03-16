@@ -14,6 +14,18 @@ Ce tutoriel vous guidera  pour créer une application Streamlit en utilisant le 
 ```bash
 python -m venv myenv
 ```
+ou
+
+
+```bash
+python3.7 -m venv myenv
+python3.8 -m venv myenv
+python3.9 -m venv myenv
+python3.10 -m venv myenv
+python3.11 -m venv myenv
+python3.12 -m venv myenv
+```
+
 
 3. Activez l'environnement virtuel :
 
